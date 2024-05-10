@@ -1,0 +1,22 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "Server Homework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Breyvaq/Server-Creation.git"
+  },
+  "author": "Brayan Urena",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Breyvaq/Server-Creation/issues"
+  },
+  "homepage": "https://github.com/Breyvaq/Server-Creation#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
